@@ -2,7 +2,7 @@ import math
 import numpy as np
 import sympy as sp
 import streamlit as st
-from scipy.integrate import quad
+
 
 st.set_page_config(
     page_title="Operator Transform Laboratory",
