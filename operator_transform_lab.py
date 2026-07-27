@@ -1,8 +1,4 @@
-# ============================================================
-# app.py
-# Operator Transform Laboratory - Complete Version
-# Laplace (x→t) + Fourier (original) + Mellin (new from screenshots)
-# ============================================================
+
 
 import math
 import numpy as np
